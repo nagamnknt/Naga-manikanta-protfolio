@@ -74,7 +74,7 @@
       <li>Launched DSP campaigns for incremental growth and visibility.</li>
       <li>Collaborated with Product & Design teams to deliver high-impact, aligned marketing creatives.</li>
       <li>
-        Created and published engaging Instagram Reels to boost brand awareness:
+        Provided content for Instagram Reels to enhance brand awareness and engagement.
         <div class="reels-links">
           <a href="https://www.instagram.com/paisawapas/reels/" target="_blank">Paisawapas Reels</a>
           <a href="https://www.instagram.com/extrape.in/reels/" target="_blank">Extrape Reels</a>
